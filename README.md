@@ -1,17 +1,46 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Park%20Min%20Su's%20GitHub!%20👋&fontAlign=50&fontAlignY=40&height=200&animation=fadeIn&fontSize=40)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Park%20Min%20Su%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+---
 
+## 💻 **Tech Stack**
 
+### 🖥️ **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsu11&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+### ⚙️ **Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ **Database**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ **Frameworks**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minsu11&show_icons=true&theme=cobalt&hide_border=true" alt="minsu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsu11&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-![minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsu11&include_all_commits=true&show_icons=true&theme=cobalt)
+---
 
-<footer>
-  <div>
-    
-  </div>
-</footer>
+## 🎯 **About Me**
+- 🌱 **Learning**: Continuously improving my skills in backend development, MSA architecture, and database optimization.
+- 🛠️ **Hobbies**: Coding, solving technical challenges, and exploring new technologies.
+- 💬 **Ask me about**: Backend development, CI/CD, or any of my projects!
 
+---
+
+## 🌐 **Contact Me**
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</div>
