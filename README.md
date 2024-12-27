@@ -32,15 +32,12 @@
 ---
 
 ## 🎯 **About Me**
-- 🌱 **Learning**: Continuously improving my skills in backend development, MSA architecture, and database optimization.
-- 🛠️ **Hobbies**: Coding, solving technical challenges, and exploring new technologies.
-- 💬 **Ask me about**: Backend development, CI/CD, or any of my projects!
-
+- 수정 중
 ---
 
 ## 🌐 **Contact Me**
 <div align="center">
   <a href="mailto:zmfjtnl2@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/민수-박-2b9a36299/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
