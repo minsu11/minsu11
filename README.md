@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Park%20Min%20Su's%20GitHub!%20👋&fontAlign=50&fontAlignY=40&height=200&animation=fadeIn&fontSize=40)
-
----
 
 ## 💻 **Tech Stack**
 
@@ -32,12 +29,14 @@
 ---
 
 ## 🎯 **About Me**
-- 수정 중
+
+- 2023.08 ~ 2024.03 NHN Academy 수료
+- 2024.04 ~ 2025.06 NHN Academy TA 재직
+- 현재: 개인 프로젝트 진행 중(실시간 채팅 서버) 
 ---
 
 ## 🌐 **Contact Me**
 <div align="center">
   <a href="mailto:zmfjtnl2@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/민수-박-2b9a36299/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
 </div>
+
