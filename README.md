@@ -18,7 +18,7 @@ Spring Boot 기반 1:1 채팅 서버 개인 프로젝트입니다.
 또한 Controller에서 바로 Application Service를 호출하던 구조도 기능이 늘어나며 흐름이 섞이기 시작해, Facade Service를 두고 유스케이스 단위로 처리 과정을 정리하는 방향으로 구조를 바꾸었습니다.
 
 - Tech: Java, Spring Boot, MySQL, Docker
-- Repository: [채팅 서버 링크]
+- Repository: https://github.com/minsu11/chat-server
 
 ### 2. My-Books
 유사 MSA 구조로 개발한 온라인 서점 팀 프로젝트입니다.  
@@ -34,7 +34,7 @@ BLE 기반 실시간 실내 위치 추정 시스템 팀 프로젝트입니다.
 PyQt UI와 서버 보조 역할을 맡아 기능 구현과 데이터 흐름이 연결되는 과정을 경험했습니다.
 
 - Tech: Python, Flask, PyQt5
-- Repository: [RTLS 링크]
+- Repository: https://github.com/minsu11/RTLS
 
 ## Experience
 ### NHN Academy TA
